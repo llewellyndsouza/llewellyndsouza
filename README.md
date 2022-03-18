@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @llewellyndsouza
-- 👀 I’m interested in designing cool, useful web applications
-- 🌱 I good at the backend side with Express and databases but I'm also comfortable working with React and other Javascript frameworks.
-- 📫 I’m looking to collaborate with anyone from across timezones. Feel free to shoot me an email.
+- 👀 I’m interested in designing useful, also cool web applications
+- 🌱 I good at the backend side with Express, GraphQL, MongoDB and Postgres but I'm also comfortable working with React and other Javascript frameworks.
 
  Cheers :smile:
  
